@@ -1,0 +1,388 @@
+{
+    "Categories": [
+        {
+            "Category": "Animals",
+            "Words": {
+                "Short": [
+                    "Bear",
+                    "Lynx",
+                    "Wolf",
+                    "Hawk",
+                    "Crab",
+                    "Puma",
+                    "Mole",
+                    "Swan",
+                    "Hare"
+                ],
+                "Medium": [
+                    "Penguin",
+                    "Cheetah",
+                    "Ocelot",
+                    "Buffalo",
+                    "Dolphin",
+                    "Ferret",
+                    "Leopard",
+                    "Gorilla",
+                    "Tortoise"
+                ],
+                "Long": [
+                    "Red Panda",
+                    "Hedgehog",
+                    "Armadillo",
+                    "Anaconda",
+                    "Salamander",
+                    "Wolverine",
+                    "Chipmunk",
+                    "Porcupine",
+                    "Kangaroos"
+                ]
+            }
+        },
+        {
+            "Category": "Colors",
+            "Words": {
+                "Short": [
+                    "Red",
+                    "Blue",
+                    "Teal",
+                    "Pink",
+                    "Cyan",
+                    "Gray",
+                    "Navy",
+                    "Gold",
+                    "Lime"
+                ],
+                "Medium": [
+                    "Orange",
+                    "Purple",
+                    "Silver",
+                    "Maroon",
+                    "Olive",
+                    "Magenta",
+                    "Violet",
+                    "Indigo",
+                    "Amber",
+                    "Yellow",
+                    "Black",
+                    "White",
+                    "Brown",
+                    "Cream",
+                    "Beige",
+                    "Coral",
+                    "Fuschia"
+                ],
+                "Long": [
+                    "Turquoise",
+                    "Aquamarine",
+                    "Chartreuse",
+                    "Periwinkle",
+                    "Burgundy",
+                    "Aubergine",
+                    "Burlywood",
+                    "Byzantium",
+                    "Cedar Chest"
+                ]
+            }
+        },
+        {
+            "Category": "Fruits",
+            "Words": {
+                "Short": [
+                    "Kiwi",
+                    "Fig",
+                    "Plum",
+                    "Lime",
+                    "Date",
+                    "Pear"
+                ],
+                "Medium": [
+                    "Apple",
+                    "Mango",
+                    "Grape",
+                    "Peach",
+                    "Lemon",
+                    "Cherry",
+                    "Papaya",
+                    "Orange",
+                    "Banana",
+                    "Melon",
+                    "Guava",
+                    "Apricot",
+                    "Coconut",
+                    "Honeydew",
+                    "Lychee"
+                ],
+                "Long": [
+                    "Strawberry",
+                    "Blueberry",
+                    "Raspberry",
+                    "Blackberry",
+                    "Cantaloupe",
+                    "Pomegranate",
+                    "Tangerine",
+                    "Clementine",
+                    "Passion Fruit",
+                    "Dragonfruit",
+                    "Cranberry",
+                    "Persimmon",
+                    "Nectarine",
+                    "Jackfruit",
+                    "Gooseberry"
+                ]
+            }
+        },
+        {
+            "Category": "Sports",
+            "Words": {
+                "Short": [
+                    "Golf",
+                    "Ski",
+                    "Luge",
+                    "Surf",
+                    "Judo"
+                ],
+                "Medium": [
+                    "Baseball",
+                    "Football",
+                    "Cricket",
+                    "Hockey",
+                    "Tennis",
+                    "Cycling",
+                    "Wrestling",
+                    "Rugby",
+                    "Kayaking"
+                ],
+                "Long": [
+                    "Snowboarding",
+                    "Powerlifting",
+                    "Badminton",
+                    "Basketball",
+                    "Weightlifting",
+                    "Figure Skating",
+                    "Synchronized Swim"
+                ]
+            }
+        },
+        {
+            "Category": "Fall",
+            "Words": {
+                "Short": [
+                    "Rain",
+                    "Bark",
+                    "Gust",
+                    "Dusk",
+                    "Acorn",
+                    "Fog",
+                    "Vine"
+                ],
+                "Medium": [
+                    "Pumpkin",
+                    "Harvest",
+                    "Bonfire",
+                    "Hayride",
+                    "Scarecrow",
+                    "Chestnut",
+                    "Mapleleaf",
+                    "Treehouse",
+                    "October"
+                ],
+                "Long": [
+                    "Falling Leaves",
+                    "Apple Picking",
+                    "Autumn Season",
+                    "Orchard Trails",
+                    "Cider Station",
+                    "Corn Maze Field",
+                    "Halloween"
+                ]
+            }
+        },
+        {
+            "Category": "Food",
+            "Words": {
+                "Short": [
+                    "Rice",
+                    "Taco",
+                    "Beef",
+                    "Corn",
+                    "Soup",
+                    "Pear",
+                    "Eggs",
+                    "Chip",
+                    "Lime"
+                ],
+                "Medium": [
+                    "Lasagna",
+                    "Pudding",
+                    "Brownie",
+                    "Burrito",
+                    "Noodles",
+                    "Chicken",
+                    "Cookies",
+                    "Caramel",
+                    "Bananas"
+                ],
+                "Long": [
+                    "Spaghetti",
+                    "Mozzarella",
+                    "Cheesecake",
+                    "Macaroni",
+                    "Cinnamon Roll",
+                    "Chocolate Bar",
+                    "Strudel Cake",
+                    "Fried Shrimp",
+                    "Pecan Pie"
+                ]
+            }
+        },
+        {
+            "Category": "Games",
+            "Words": {
+                "Short": [
+                    "Pong",
+                    "Doom",
+                    "Halo",
+                    "FIFA",
+                    "Zelda",
+                    "Sims",
+                    "Rust",
+                    "Quake",
+                    "Tetris"
+                ],
+                "Medium": [
+                    "Fortnite",
+                    "Roblox",
+                    "Minecraft",
+                    "Terraria",
+                    "Overwatch",
+                    "Valorant",
+                    "Stardew",
+                    "Apex Legends",
+                    "Mario Kart"
+                ],
+                "Long": [
+                    "Hollow Knight",
+                    "Final Fantasy",
+                    "Dragon Quest",
+                    "Golden Sun",
+                    "Super Metroid",
+                    "Animal Crossing",
+                    "Monster Hunter",
+                    "Kingdom Hearts"
+                ]
+            }
+        },
+        {
+            "Category": "Spring",
+            "Words": {
+                "Short": [
+                    "Bud",
+                    "Lamb",
+                    "Nest",
+                    "Frog",
+                    "Seed",
+                    "Twig",
+                    "Fern",
+                    "Rose"
+                ],
+                "Medium": [
+                    "Meadows",
+                    "Flowers",
+                    "Sprouts",
+                    "Blossom",
+                    "Sunshine",
+                    "Butterfly",
+                    "Petals",
+                    "Rainfall",
+                    "Pollen",
+                    "Nectar",
+                    "Petunia",
+                    "Sapling"
+                ],
+                "Long": [
+                    "Cherry Trees",
+                    "Garden Market",
+                    "Blooming Trees",
+                    "Wildflower Hill",
+                    "Hatching Season",
+                    "Migration Time",
+                    "Spring Planting"
+                ]
+            }
+        },
+        {
+            "Category": "Summer",
+            "Words": {
+                "Short": [
+                    "Sun",
+                    "Heat",
+                    "Sand",
+                    "Wave",
+                    "Palm",
+                    "Ice",
+                    "Swim",
+                    "Dive",
+                    "Pier"
+                ],
+                "Medium": [
+                    "Sunrise",
+                    "Sunburn",
+                    "Beaches",
+                    "Picnics",
+                    "Surfing",
+                    "Seaside",
+                    "Campfire",
+                    "Sandbar",
+                    "Harbors"
+                ],
+                "Long": [
+                    "Summer Break",
+                    "Ocean Breeze",
+                    "Tropical Beach",
+                    "Water Park Day",
+                    "Harbor Lights",
+                    "Sunset Cruise",
+                    "Island Voyage",
+                    "Summer Nights",
+                    "Seaside Trails"
+                ]
+            }
+        },
+        {
+            "Category": "Winter",
+            "Words": {
+                "Short": [
+                    "Ice",
+                    "Pine",
+                    "Sled",
+                    "Hail",
+                    "Frost",
+                    "Dark",
+                    "Chill",
+                    "Fir"
+                ],
+                "Medium": [
+                    "Blizzard",
+                    "Snowfall",
+                    "Sledding",
+                    "Icicles",
+                    "Snowshoe",
+                    "Firewood",
+                    "Snowbank",
+                    "Snowball",
+                    "Wintertime"
+                ],
+                "Long": [
+                    "Frozen Forest",
+                    "Holiday Season",
+                    "Winter Parade",
+                    "Northern Winds",
+                    "Winter Market",
+                    "Frozen Canyon",
+                    "Mountain Lodge",
+                    "Snowfield Ridge"
+                ]
+            }
+        }
+    ]
+}
