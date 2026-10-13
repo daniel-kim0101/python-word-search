@@ -19,7 +19,7 @@ Requires Python 3.8+ with Tkinter (included in most Python installs).
 Run it from the project folder so it can find `words.json` and the banner images.
 
 ## Project files
-- `word_search.py`: game code
+- `game.py`: game code
 - `words.json`: word lists for each category, split into short, medium, and long words
 - `*.png`: category banner images
 
